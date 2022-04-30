@@ -1,2 +1,2 @@
-# 2dHand_keypoints
+# 2dHand_keypoint
 2dhand
